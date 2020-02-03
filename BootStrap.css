@@ -1,0 +1,26 @@
+header{
+
+    color: black;
+
+   
+    width:100% ;
+    height: 20vh;
+    background: url(images/1.jpeg);
+   
+}
+
+
+footer{
+
+    color: black;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .flex-container > div {
+ 
+    text-align: center;
+    
+  }
